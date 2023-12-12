@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023/12/2023-12-13 ( 수 ).md",
+                "file": "2023/12/2023-12-12 ( 화 ).md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/12/2023-12-13 ( 수 ).md",
+                "file": "2023/12/2023-12-12 ( 화 ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/12/2023-12-13 ( 수 ).md",
+                "file": "2023/12/2023-12-12 ( 화 ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/12/2023-12-13 ( 수 ).md"
+                "file": "2023/12/2023-12-12 ( 화 ).md"
               }
             }
           }
@@ -178,13 +178,13 @@
   },
   "active": "f7023bc5a4ee9c2b",
   "lastOpenFiles": [
+    "2023-12-12.md",
     "2023/12/2023-12-12 ( 화 ).md",
     "2023/12/2023-12-13 ( 수 ).md",
     "Template/To-do.md",
     "Template",
     "2023/12",
     "2023",
-    "2023-12-12.md",
     "Spaces/Home",
     "Spaces"
   ]
