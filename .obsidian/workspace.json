@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "044f68243f6f35a6",
+        "id": "aa82d9f5d9ef1a89",
         "type": "tabs",
         "children": [
           {
-            "id": "f3ad8f53ef24809e",
+            "id": "f556386a6b53e9b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023/12/2023-12-12 ( 화 ).md",
+                "file": "Project/에셋정리.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f7023bc5a4ee9c2b",
+            "id": "b71b6b8209a36e8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023/12/2023-12-12 ( 화 ).md",
+                "file": "Study/URL 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71a450fe169d55d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Table.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/12/2023-12-12 ( 화 ).md",
+                "file": "Template/Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/12/2023-12-12 ( 화 ).md",
+                "file": "Template/Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/12/2023-12-12 ( 화 ).md"
+                "file": "Template/Table.md"
               }
             }
           }
@@ -176,11 +188,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f7023bc5a4ee9c2b",
+  "active": "71a450fe169d55d2",
   "lastOpenFiles": [
+    "Study/URL 정리.md",
+    "Template/Table.md",
+    "Project/에셋정리.md",
+    "Study",
+    "Project/A프로젝트.md",
+    "2023/12/2023-12-14 ( 목 ).md",
+    "Project/Project.md",
     "2023-12-12.md",
-    "2023/12/2023-12-12 ( 화 ).md",
     "2023/12/2023-12-13 ( 수 ).md",
+    "2023/12/2023-12-12 ( 화 ).md",
+    "Project",
+    "Spaces/Home/무제 파일.md",
     "Template/To-do.md",
     "Template",
     "2023/12",
