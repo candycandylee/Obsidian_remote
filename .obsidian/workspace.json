@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "cd73b089043283f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "044f68243f6f35a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3ad8f53ef24809e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/12/2023-12-12 ( 화 ).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7023bc5a4ee9c2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/12/2023-12-13 ( 수 ).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9baa042b7e9d7002",
+    "type": "split",
+    "children": [
+      {
+        "id": "09f52f26093443bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50295aa12de35ec5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78e0e0412e249ad0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49211ba9e2e0a5c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b04bb1888cc50c85",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "43b0a893e9058b71",
+    "type": "split",
+    "children": [
+      {
+        "id": "88ca5a84c5166afa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00b5bc46345b6f56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023/12/2023-12-13 ( 수 ).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "276e6a953e08981b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023/12/2023-12-13 ( 수 ).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7adc747617ed3f11",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "58e18edf5e001598",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1208ce5806e09b0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023/12/2023-12-13 ( 수 ).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "f7023bc5a4ee9c2b",
+  "lastOpenFiles": [
+    "Template/To-do.md",
+    "2023/12/2023-12-13 ( 수 ).md",
+    "2023/12/2023-12-12 ( 화 ).md",
+    "Template",
+    "2023/12",
+    "2023",
+    "2023-12-12.md",
+    "Spaces/Home",
+    "Spaces"
+  ]
+}
