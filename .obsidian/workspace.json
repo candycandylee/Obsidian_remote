@@ -11,11 +11,9 @@
             "id": "f556386a6b53e9b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "2023/12/2023-12-13 ( 수 ).md",
-                "mode": "source",
-                "source": false
+                "file": "Project/Project.md"
               }
             }
           },
@@ -25,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/URL 정리.md",
+                "file": "Spaces/Home/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +76,7 @@
             }
           },
           {
-            "id": "b04bb1888cc50c85",
+            "id": "c29090ae1fbfb03c",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/12/2023-12-13 ( 수 ).md",
+                "file": "Project/Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/12/2023-12-13 ( 수 ).md",
+                "file": "Project/Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/12/2023-12-13 ( 수 ).md"
+                "file": "Project/Project.md"
               }
             }
           }
@@ -177,20 +175,22 @@
   },
   "active": "f556386a6b53e9b3",
   "lastOpenFiles": [
-    "2023/12/2023-12-21 ( 목 ).md",
-    "2023/12/2023-12-14 ( 목 ).md",
-    "2023/12/2023-12-13 ( 수 ).md",
     "Project/에셋정리.md",
     "Project/Project.md",
-    "Project/A프로젝트.md",
-    "Study/URL 정리.md",
-    "2023/12/2023-12-12 ( 화 ).md",
+    "2023/12/2023-12-14 ( 목 ).md",
+    "Template/To-do.md",
     "Template/Table.md",
+    "Study/URL 정리.md",
+    "Spaces/Home/Untitled.md",
+    "무제 파일.md",
+    "2023/12/2023-12-13 ( 수 ).md",
+    "2023/12/2023-12-21 ( 목 ).md",
+    "Project/A프로젝트.md",
+    "2023/12/2023-12-12 ( 화 ).md",
     "Study",
     "2023-12-12.md",
     "Project",
     "Spaces/Home/무제 파일.md",
-    "Template/To-do.md",
     "Template",
     "2023/12",
     "2023",
