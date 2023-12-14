@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "aa82d9f5d9ef1a89",
+        "id": "11498b1cdddcc8ca",
         "type": "tabs",
         "children": [
           {
-            "id": "f556386a6b53e9b3",
+            "id": "84ba38366f8c517d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Project/Project.md"
+                "file": "2023/12/2023-12-14 ( 목 ).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -64,7 +66,7 @@
             }
           },
           {
-            "id": "c29090ae1fbfb03c",
+            "id": "372142f2c0fec94b",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Project.md",
+                "file": "2023/12/2023-12-14 ( 목 ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Project.md",
+                "file": "2023/12/2023-12-14 ( 목 ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,8 +141,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Project.md"
+                "file": "2023/12/2023-12-14 ( 목 ).md"
               }
+            }
+          },
+          {
+            "id": "974945cd1f890ffb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -158,32 +168,34 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "periodic-notes:Open today": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "f556386a6b53e9b3",
+  "active": "84ba38366f8c517d",
   "lastOpenFiles": [
-    "Study/URL 정리.md",
+    "Spaces/Home/Home.md",
+    "2023/12/2023-12-15 ( 금 ).md",
+    "2023/12/2023-12-14 ( 목 ).md",
+    "Spaces/Project/Project.md",
+    "2023/12",
+    "2023",
+    "무제 폴더",
+    "Spaces/Study/URL 정리.md",
+    "Spaces/Home",
+    "Spaces",
     "Template/Table.md",
-    "Project/Project.md",
     "2023/12/2023-12-12 ( 화 ).md",
     "2023/12/2023-12-13 ( 수 ).md",
-    "2023/12/2023-12-14 ( 목 ).md",
     "Project/에셋정리.md",
     "Template/To-do.md",
     "Spaces/Home/Untitled.md",
     "무제 파일.md",
     "2023/12/2023-12-21 ( 목 ).md",
     "Project/A프로젝트.md",
-    "Study",
+    "Spaces/Study",
     "2023-12-12.md",
-    "Project",
+    "Spaces/Project",
     "Spaces/Home/무제 파일.md",
-    "Template",
-    "2023/12",
-    "2023",
-    "Spaces/Home",
-    "Spaces"
+    "Template"
   ]
 }
