@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -177,6 +178,8 @@
   },
   "active": "f556386a6b53e9b3",
   "lastOpenFiles": [
+    "Spaces/Home",
+    "Spaces",
     "2023/12/2023-12-21 ( 목 ).md",
     "2023/12/2023-12-14 ( 목 ).md",
     "2023/12/2023-12-13 ( 수 ).md",
@@ -193,8 +196,6 @@
     "Template/To-do.md",
     "Template",
     "2023/12",
-    "2023",
-    "Spaces/Home",
-    "Spaces"
+    "2023"
   ]
 }
