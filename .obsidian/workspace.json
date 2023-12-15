@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023/12/2023-12-14 ( 목 ).md",
+                "file": "2023/12/2023-12-21 ( 목 ).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/12/2023-12-14 ( 목 ).md",
+                "file": "2023/12/2023-12-21 ( 목 ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/12/2023-12-14 ( 목 ).md",
+                "file": "2023/12/2023-12-21 ( 목 ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/12/2023-12-14 ( 목 ).md"
+                "file": "2023/12/2023-12-21 ( 목 ).md"
               }
             }
           }
@@ -175,24 +176,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f556386a6b53e9b3",
+  "active": "b04bb1888cc50c85",
   "lastOpenFiles": [
-    "2023/12/2023-12-21 ( 목 ).md",
     "2023/12/2023-12-14 ( 목 ).md",
+    "Template/To-do.md",
+    "Study/URL 정리.md",
+    "Project/Project.md",
+    "Project/에셋정리.md",
+    "2023/12/2023-12-21 ( 목 ).md",
     "2023/12/2023-12-13 ( 수 ).md",
     "Spaces/Home",
     "Spaces",
-    "Project/에셋정리.md",
-    "Project/Project.md",
     "Project/A프로젝트.md",
-    "Study/URL 정리.md",
     "2023/12/2023-12-12 ( 화 ).md",
     "Template/Table.md",
     "Study",
     "2023-12-12.md",
     "Project",
     "Spaces/Home/무제 파일.md",
-    "Template/To-do.md",
     "Template",
     "2023/12",
     "2023"
