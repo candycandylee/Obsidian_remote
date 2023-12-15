@@ -18,7 +18,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "Spaces/Home",
+  "activeView": "/",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -35,7 +35,19 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Spaces",
+    "//Spaces",
+    "//Spaces/Spaces/Study",
+    "//Spaces/Spaces/Project 1",
+    "//Spaces/Spaces/Project",
+    "//Spaces/Spaces/Project 1",
+    "//Spaces/Spaces/Project",
+    "//Spaces",
+    "//Spaces/Spaces/Study",
+    "//Spaces/Spaces/Project",
+    "//Spaces/Spaces/Project",
+    "//Spaces/Spaces/Project"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -58,6 +70,7 @@
   "waypoints": [
     "Spaces/Home",
     "/",
+    "spaces://$waypoints",
     "spaces://$tags"
   ],
   "rootSpaces": [],

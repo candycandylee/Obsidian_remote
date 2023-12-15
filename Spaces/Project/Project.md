@@ -10,6 +10,7 @@ kanban-plugin: basic
 
 ## 진행중
 
+- [ ] [[에셋정리]] ^hgth63
 
 
 ## 완료

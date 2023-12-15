@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Home.md",
+                "file": "2023/12/2023-12-14 ( 목 ).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Home.md",
+                "file": "2023/12/2023-12-14 ( 목 ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Home.md",
+                "file": "2023/12/2023-12-14 ( 목 ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Home.md"
+                "file": "2023/12/2023-12-14 ( 목 ).md"
               }
             }
           }
@@ -165,17 +165,19 @@
   },
   "active": "b71b6b8209a36e8b",
   "lastOpenFiles": [
-    "Template/To-do.md",
-    "Template/Table.md",
+    "에셋정리.md",
+    "Spaces/Study/URL 정리.md",
+    "에셋정리.md",
     "2023/12/2023-12-15 ( 금 ).md",
+    "Template/To-do.md",
+    "Spaces/Project 1/Project 1.md",
+    "Template/Table.md",
     "2023/12/2023-12-14 ( 목 ).md",
     "2023/12/2023-12-21 ( 목 ).md",
-    "Spaces/Study/URL 정리.md",
     "Spaces/Project/Project.md",
-    "Spaces/Home/Home.md",
     "Spaces/Study",
     "Spaces/Project",
-    "Spaces/Home",
+    "Spaces/Project 1",
     "Spaces",
     "Study/URL 정리.md",
     "Study",
