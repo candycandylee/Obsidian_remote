@@ -10,7 +10,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "Spaces/Project",
+          "path": "STN_Project",
           "recursive": false
         }
       },
@@ -18,10 +18,22 @@
       "views": [
         {
           "config": {
+            "fieldConfig": {
+              "name": {
+                "hide": false
+              },
+              "path": {
+                "hide": false
+              },
+              "tags": {
+                "hide": false
+              }
+            },
             "orderFields": [
-              "New field"
-            ],
-            "fieldConfig": {}
+              "name",
+              "path",
+              "tags"
+            ]
           },
           "filter": {
             "conditions": []
@@ -32,13 +44,13 @@
           "sort": {
             "criteria": []
           },
-          "id": "4fe032e3-9a24-481f-92d6-8f8333ff82df",
+          "id": "86ce52eb-6474-46ba-9523-bcc3d35bc3d8",
           "name": "Table",
           "type": "table"
         }
       ],
-      "id": "8e012586-76c5-485f-b13b-3b6d6b1b7097",
-      "name": "A-Project"
+      "id": "c38a4975-99b0-421f-8dcd-6e134037cd3b",
+      "name": "STN_Project"
     }
   ],
   "archives": [],
