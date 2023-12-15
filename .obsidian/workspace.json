@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023/12/2023-12-14 ( 목 ).md",
+                "file": "Spaces/Study/URL 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/12/2023-12-14 ( 목 ).md",
+                "file": "Spaces/Study/URL 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/12/2023-12-14 ( 목 ).md",
+                "file": "Spaces/Study/URL 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/12/2023-12-14 ( 목 ).md"
+                "file": "Spaces/Study/URL 정리.md"
               }
             }
           }
@@ -166,13 +167,13 @@
   "active": "b71b6b8209a36e8b",
   "lastOpenFiles": [
     "에셋정리.md",
-    "Spaces/Study/URL 정리.md",
-    "에셋정리.md",
+    "Obsidian_remote.md",
     "2023/12/2023-12-15 ( 금 ).md",
-    "Template/To-do.md",
-    "Spaces/Project 1/Project 1.md",
-    "Template/Table.md",
     "2023/12/2023-12-14 ( 목 ).md",
+    "Spaces/Study/URL 정리.md",
+    "Spaces/Study/Template/To-do.md",
+    "Spaces/Project 1/Project 1.md",
+    "Spaces/Study/Template/Table.md",
     "2023/12/2023-12-21 ( 목 ).md",
     "Spaces/Project/Project.md",
     "Spaces/Study",
@@ -189,7 +190,7 @@
     "Project/A프로젝트.md",
     "2023-12-12.md",
     "Spaces/Home/무제 파일.md",
-    "Template",
+    "Spaces/Study/Template",
     "2023/12",
     "2023"
   ]

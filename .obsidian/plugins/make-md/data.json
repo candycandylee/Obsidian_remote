@@ -47,7 +47,12 @@
     "//Spaces/Spaces/Study",
     "//Spaces/Spaces/Project",
     "//Spaces/Spaces/Project",
-    "//Spaces/Spaces/Project"
+    "//Spaces/Spaces/Project",
+    "//2023",
+    "//2023/2023/12",
+    "//Template",
+    "//Spaces",
+    "//Spaces/Study/Template"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -68,8 +73,8 @@
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
   "waypoints": [
-    "Spaces/Home",
     "/",
+    "Spaces",
     "spaces://$waypoints",
     "spaces://$tags"
   ],
