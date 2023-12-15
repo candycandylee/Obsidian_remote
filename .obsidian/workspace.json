@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023/12/2023-12-13 ( 수 ).md",
+                "file": "2023/12/2023-12-14 ( 목 ).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023/12/2023-12-13 ( 수 ).md",
+                "file": "2023/12/2023-12-14 ( 목 ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023/12/2023-12-13 ( 수 ).md",
+                "file": "2023/12/2023-12-14 ( 목 ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023/12/2023-12-13 ( 수 ).md"
+                "file": "2023/12/2023-12-14 ( 목 ).md"
               }
             }
           }
@@ -178,11 +177,11 @@
   },
   "active": "f556386a6b53e9b3",
   "lastOpenFiles": [
-    "Spaces/Home",
-    "Spaces",
     "2023/12/2023-12-21 ( 목 ).md",
     "2023/12/2023-12-14 ( 목 ).md",
     "2023/12/2023-12-13 ( 수 ).md",
+    "Spaces/Home",
+    "Spaces",
     "Project/에셋정리.md",
     "Project/Project.md",
     "Project/A프로젝트.md",
