@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Study/URL 정리.md",
+                "file": "STN_Project/4.0 에셋.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Study/URL 정리.md",
+                "file": "STN_Project/4.0 에셋.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Study/URL 정리.md",
+                "file": "STN_Project/4.0 에셋.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,17 +151,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Study/URL 정리.md"
+                "file": "STN_Project/4.0 에셋.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +176,9 @@
   },
   "active": "139b97dcafd0a070",
   "lastOpenFiles": [
+    "2023/12/2023-12-15 ( 금 ).md",
     "2023/12/2023-12-14 ( 목 ).md",
+    "Template/To-do.md",
     "Spaces/Study/URL 정리.md",
     "Spaces/Home",
     "Template/Table.md",
@@ -189,8 +190,6 @@
     "A-Project",
     "무제 파일 1.md",
     "Obsidian_remote.md",
-    "Template/To-do.md",
-    "2023/12/2023-12-15 ( 금 ).md",
     "Spaces/Project 1/Project 1.md",
     "2023/12/2023-12-21 ( 목 ).md",
     "Spaces/Study",
