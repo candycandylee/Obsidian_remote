@@ -1,7 +1,7 @@
 [
   "obsidian-git",
-  "make-md",
   "calendar",
   "periodic-notes",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "make-md"
 ]
