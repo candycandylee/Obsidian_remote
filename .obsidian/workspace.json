@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3124e9a93fade52",
+        "id": "c7d34460dd75b904",
         "type": "tabs",
         "children": [
           {
-            "id": "0187b9bcccd1f6b7",
+            "id": "2039396a7b1926b6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,27 +16,19 @@
             }
           },
           {
-            "id": "1037c8d4147dcba0",
+            "id": "139b97dcafd0a070",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STN_Project/4.0 에셋.md",
+                "file": "Spaces/Study/URL 정리.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c032980896b7cb88",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -110,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Study/URL 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Study/URL 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Study/URL 정리.md"
+              }
             }
           }
         ],
@@ -178,8 +175,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c032980896b7cb88",
+  "active": "139b97dcafd0a070",
   "lastOpenFiles": [
+    "2023/12/2023-12-14 ( 목 ).md",
+    "Spaces/Study/URL 정리.md",
+    "Spaces/Home",
+    "Template/Table.md",
     "STN_Project/4.0 에셋.md",
     "에셋정리.md",
     "STN_Project",
@@ -188,11 +189,8 @@
     "A-Project",
     "무제 파일 1.md",
     "Obsidian_remote.md",
-    "Template/Table.md",
     "Template/To-do.md",
-    "Spaces/Study/URL 정리.md",
     "2023/12/2023-12-15 ( 금 ).md",
-    "2023/12/2023-12-14 ( 목 ).md",
     "Spaces/Project 1/Project 1.md",
     "2023/12/2023-12-21 ( 목 ).md",
     "Spaces/Study",
@@ -209,7 +207,6 @@
     "Project/A프로젝트.md",
     "2023-12-12.md",
     "Spaces/Home/무제 파일.md",
-    "Template",
-    "2023/12"
+    "Template"
   ]
 }

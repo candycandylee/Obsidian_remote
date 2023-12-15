@@ -47,6 +47,21 @@
           "id": "86ce52eb-6474-46ba-9523-bcc3d35bc3d8",
           "name": "Table",
           "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "dc60b0b6-80a6-46c1-b285-6ec1261e4bc6",
+          "name": "Board",
+          "type": "board"
         }
       ],
       "id": "c38a4975-99b0-421f-8dcd-6e134037cd3b",
