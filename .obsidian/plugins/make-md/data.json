@@ -62,7 +62,9 @@
     "//Spaces/Spaces/Home",
     "//Spaces/Spaces/Study",
     "//2023",
-    "//STN_Project"
+    "//STN_Project",
+    "//Spaces/Spaces/Home",
+    "//Template"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
