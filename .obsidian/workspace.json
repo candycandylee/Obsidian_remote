@@ -11,9 +11,11 @@
             "id": "a899805635e753b2",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Study"
+                "file": "Spaces/A프로젝트/4.0 에셋.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#A프로젝트",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/A프로젝트/4.0 에셋.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/A프로젝트/4.0 에셋.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/A프로젝트/4.0 에셋.md"
+              }
             }
           }
         ]
@@ -159,9 +165,9 @@
   },
   "active": "a899805635e753b2",
   "lastOpenFiles": [
-    "Spaces/Study/URL 정리.md",
-    "Spaces/A프로젝트/A_project_main.md",
+    "Spaces/A프로젝트/에셋정리상황.md",
     "Spaces/A프로젝트/4.0 에셋.md",
+    "Spaces/Study/URL 정리.md",
     "2023/12/2023-12-26 ( 화 ).md",
     "2023/12/2023-12-25 ( 월 ).md",
     "Obsidian_remote.md",
