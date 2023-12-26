@@ -13,13 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Study/URL 정리.md",
+                "file": "2023/12/2023-12-26 ( 화 ).md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c219de33c3b51eca",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "STN_Project"
+              }
+            }
+          },
+          {
+            "id": "a9bda66d25a1b6fc",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -66,7 +85,7 @@
             }
           },
           {
-            "id": "45615850ced56244",
+            "id": "e8e10ba16ca267a3",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -89,12 +108,19 @@
         "type": "tabs",
         "children": [
           {
+            "id": "7adc747617ed3f11",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
             "id": "00b5bc46345b6f56",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Study/URL 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,26 +129,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "276e6a953e08981b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Spaces/Study/URL 정리.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "7adc747617ed3f11",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -137,21 +143,30 @@
             }
           },
           {
+            "id": "276e6a953e08981b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "1208ce5806e09b0c",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Study/URL 정리.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,23 +176,26 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-projects:Open projects": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "139b97dcafd0a070",
+  "active": "a9bda66d25a1b6fc",
   "lastOpenFiles": [
+    "STN_Project/4.0 에셋.md",
+    "STN_Project/STN_Project.md",
     "2023/12/2023-12-26 ( 화 ).md",
+    "에셋정리.md",
+    "Template/To-do.md",
+    "Template/Table.md",
+    "Spaces/Study/URL 정리.md",
+    "2023/12/2023-12-28 ( 목 ).md",
+    "2023/12/2023-12-27 ( 수 ).md",
     "2023/12/2023-12-25 ( 월 ).md",
     "2023/12/2023-12-18 ( 월 ).md",
     "Spaces/Home",
     "2023/12/2023-12-15 ( 금 ).md",
     "2023/12/2023-12-14 ( 목 ).md",
-    "Template/Table.md",
-    "Spaces/Study/URL 정리.md",
-    "STN_Project/4.0 에셋.md",
-    "Template/To-do.md",
-    "에셋정리.md",
     "STN_Project",
     "Spaces/Project/Project.md",
     "A-Project/A.md",
@@ -199,7 +217,6 @@
     "2023/12/2023-12-12 ( 화 ).md",
     "Project/A프로젝트.md",
     "2023-12-12.md",
-    "Spaces/Home/무제 파일.md",
     "Template"
   ]
 }

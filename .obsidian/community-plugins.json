@@ -2,7 +2,6 @@
   "obsidian-git",
   "calendar",
   "periodic-notes",
-  "obsidian-kanban",
-  "obsidian-projects",
-  "make-md"
+  "make-md",
+  "obsidian-projects"
 ]
