@@ -18,6 +18,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","show-archive-all":false}
+{"kanban-plugin":"basic","show-archive-all":false,"show-checkboxes":false,"tag-colors":[]}
 ```
 %%
