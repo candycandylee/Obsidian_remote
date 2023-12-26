@@ -18,7 +18,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "Spaces",
+  "activeView": "/",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -97,7 +97,8 @@
     "Spaces/Spaces/A프로젝트",
     "Spaces/Spaces/A프로젝트",
     "Spaces/Spaces/Study",
-    "Spaces/Spaces/A프로젝트"
+    "Spaces/Spaces/A프로젝트",
+    "//2023/2023/12"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
