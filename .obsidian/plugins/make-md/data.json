@@ -99,6 +99,8 @@
     "Spaces/Spaces/Study",
     "Spaces/Spaces/A프로젝트",
     "//2023/2023/12",
+    "//Spaces/Spaces/Home",
+    "//Spaces/Spaces/A프로젝트",
     "//Spaces/Spaces/Home"
   ],
   "expandFolderOnClick": true,
@@ -115,7 +117,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",

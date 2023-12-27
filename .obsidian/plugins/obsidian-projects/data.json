@@ -18,21 +18,10 @@
       "views": [
         {
           "config": {
-            "fieldConfig": {
-              "name": {
-                "hide": false
-              },
-              "path": {
-                "hide": false
-              },
-              "tags": {
-                "hide": false
-              }
-            },
+            "fieldConfig": {},
             "orderFields": [
-              "name",
-              "path",
-              "tags"
+              "New field",
+              "New field 1"
             ]
           },
           "filter": {

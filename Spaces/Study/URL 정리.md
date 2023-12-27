@@ -1,1 +1,0 @@
-![![Spaces/Study/#^Table1]]
