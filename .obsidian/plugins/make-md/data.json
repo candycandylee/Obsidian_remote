@@ -73,7 +73,6 @@
     "//STN_Project",
     "//STN_Project",
     "//STN_Project",
-    "//2023",
     "//Spaces/Spaces/Study",
     "//STN_Project",
     "//STN_Project",
@@ -98,11 +97,12 @@
     "Spaces/Spaces/A프로젝트",
     "Spaces/Spaces/Study",
     "Spaces/Spaces/A프로젝트",
-    "//2023/2023/12",
     "//Spaces/Spaces/Home",
     "//Spaces/Spaces/A프로젝트",
     "//Spaces/Spaces/Home",
-    "//Spaces/Spaces/A프로젝트"
+    "//Spaces/Spaces/A프로젝트",
+    "//2024",
+    "//2024/2024/01"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
