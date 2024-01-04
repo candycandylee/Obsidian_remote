@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/01/2024-01-10 ( 수 ).md",
+                "file": "메모장.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "43b0a893e9058b71",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/01/2024-01-10 ( 수 ).md",
+                "file": "메모장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/01/2024-01-10 ( 수 ).md",
+                "file": "메모장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/01/2024-01-10 ( 수 ).md"
+                "file": "메모장.md"
               }
             }
           }
@@ -158,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +175,8 @@
   },
   "active": "84c2a89342f191fe",
   "lastOpenFiles": [
-    "2024/01/2024-01-08 ( 월 ).md",
     "2024/01/2024-01-10 ( 수 ).md",
+    "2024/01/2024-01-08 ( 월 ).md",
     "Spaces/A프로젝트/4.0 에셋.md",
     "Spaces/A프로젝트/에셋정리상황.md",
     "2024/01/2024-01-04 ( 목 ).md",
@@ -187,7 +189,7 @@
     "2024",
     "2023/12/2023-12-26 ( 화 ).md",
     "Spaces/Home",
-    "무제 파일.md",
+    "메모장.md",
     "Spaces/Study/URL 정리.md",
     "Template/Untitled.md",
     "Obsidian_remote.md",
