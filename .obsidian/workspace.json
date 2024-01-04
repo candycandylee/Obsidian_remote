@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/01/2024-01-04 ( 목 ).md",
+                "file": "2024/01/2024-01-05 ( 금 ).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/01/2024-01-04 ( 목 ).md",
+                "file": "2024/01/2024-01-05 ( 금 ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/01/2024-01-04 ( 목 ).md",
+                "file": "2024/01/2024-01-05 ( 금 ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/01/2024-01-04 ( 목 ).md"
+                "file": "2024/01/2024-01-05 ( 금 ).md"
               }
             }
           }
@@ -173,6 +173,9 @@
   },
   "active": "84c2a89342f191fe",
   "lastOpenFiles": [
+    "2024/01/2024-01-04 ( 목 ).md",
+    "2024/01/2024-01-05 ( 금 ).md",
+    "2024/01/2024-01-02 ( 화 ).md",
     "2024/01/2024-01-11 ( 목 ).md",
     "2024/01/2024-01-10 ( 수 ).md",
     "2024/01/2024-01-08 ( 월 ).md",
@@ -180,8 +183,6 @@
     "메모장.md",
     "Spaces/A프로젝트/4.0 에셋.md",
     "Spaces/A프로젝트/에셋정리상황.md",
-    "2024/01/2024-01-04 ( 목 ).md",
-    "2024/01/2024-01-02 ( 화 ).md",
     "2023/12/2023-12-27 ( 수 ).md",
     "2023/12/2023-12-28 ( 목 ).md",
     "2023/12/2023-12-14 ( 목 ).md",
@@ -202,7 +203,6 @@
     "STN_Project/STN_Project애매한부분 정리md.md",
     "STN_Project/project.md",
     "STN_Project/STN_Project40 에셋 임포트중 애매한 부분정리.md",
-    "STN_Project/ㅁㄴㅇㅁㄴㅇㅁ.md",
     "STN_Project",
     "A-Project",
     "Spaces/Study",
